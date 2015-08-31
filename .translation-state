@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "5c3dda2dad537b449b8f29b3f4e93f6a5b618d1a",
+  "LastProcessedCommit": "a83ac7e40100252c10e749399a9cd180331cbff5",
   "Items": {
     "22977059a64c421f0d899a28171f903706394115": {
       "SourceFileCommit": "dc239305ad6236ac4da4de6837b4e91b3d4b4cd4",
@@ -651,6 +651,20 @@
       "TargetFileCommit": "cc7ebbddbf8f9bd70a3fe5891b34aab3c4598eac",
       "TargetFilePath": "Library\\vs\\alm\\Build\\feature-overview.md",
       "UpdatedDateTime": "2015-08-31T09:18:07.4030621Z"
+    },
+    "2c7f4ddac686570c9c31198cb49907119e60a8e0": {
+      "SourceFileCommit": "a83ac7e40100252c10e749399a9cd180331cbff5",
+      "SourceFilePath": "Library\\vs\\alm\\Build\\feature-overview.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "f499728b1466a885e530a8595fb36a3857a81f23": {
+      "SourceFileCommit": "a83ac7e40100252c10e749399a9cd180331cbff5",
+      "SourceFilePath": "Library\\vs\\alm\\Build\\_img\\cdn-1-browser-access.PNG",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
     }
   }
 }
