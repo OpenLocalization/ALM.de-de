@@ -4,135 +4,135 @@
     "22977059a64c421f0d899a28171f903706394115": {
       "SourceFileCommit": "dc239305ad6236ac4da4de6837b4e91b3d4b4cd4",
       "SourceFilePath": "Library\\vs\\alm\\Build\\_img\\BldVNext.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\_img\\BldVNext.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "e61f70f1d9a5b700231342c2c691b3ff2e78287f": {
       "SourceFileCommit": "dc239305ad6236ac4da4de6837b4e91b3d4b4cd4",
       "SourceFilePath": "Library\\vs\\alm\\Build\\_img\\buildList.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\_img\\buildList.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "336da6f684581b260155e41c84ac2b4bb6665999": {
       "SourceFileCommit": "dc239305ad6236ac4da4de6837b4e91b3d4b4cd4",
       "SourceFilePath": "Library\\vs\\alm\\Build\\_img\\draft.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\_img\\draft.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "a0da0025887a16fb87d3bd202004d6cdb504839a": {
       "SourceFileCommit": "dc239305ad6236ac4da4de6837b4e91b3d4b4cd4",
       "SourceFilePath": "Library\\vs\\alm\\Build\\_img\\matrix.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\_img\\matrix.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "fecbcae8035f5845f8c6254a2814824fbf6235d3": {
       "SourceFileCommit": "dc239305ad6236ac4da4de6837b4e91b3d4b4cd4",
       "SourceFilePath": "Library\\vs\\alm\\Build\\_img\\overview\\add-build-steps-utility.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\_img\\overview\\add-build-steps-utility.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "78b733e5df9338a3f731f7c82f5e94c854098f78": {
       "SourceFileCommit": "dc239305ad6236ac4da4de6837b4e91b3d4b4cd4",
       "SourceFilePath": "Library\\vs\\alm\\Build\\_img\\overview\\add-build-steps.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\_img\\overview\\add-build-steps.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "c8bca22271664ff6c7b98371adfeb2546aea985a": {
       "SourceFileCommit": "dc239305ad6236ac4da4de6837b4e91b3d4b4cd4",
       "SourceFilePath": "Library\\vs\\alm\\Build\\_img\\overview\\agent-capabilities.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\_img\\overview\\agent-capabilities.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "4ec7f55e0b8efb64b7ab6c5c7b1a7ae1a9861d56": {
       "SourceFileCommit": "dc239305ad6236ac4da4de6837b4e91b3d4b4cd4",
       "SourceFilePath": "Library\\vs\\alm\\Build\\_img\\overview\\azure-deployment-templates.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\_img\\overview\\azure-deployment-templates.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "5733d93748bf7229f6d1e339e71c436bd9d43934": {
       "SourceFileCommit": "dc239305ad6236ac4da4de6837b4e91b3d4b4cd4",
       "SourceFilePath": "Library\\vs\\alm\\Build\\_img\\overview\\build-definition-history-diff.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\_img\\overview\\build-definition-history-diff.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "a81d29036b1775868b8430aa1a6b334f9f56de8a": {
       "SourceFileCommit": "dc239305ad6236ac4da4de6837b4e91b3d4b4cd4",
       "SourceFilePath": "Library\\vs\\alm\\Build\\_img\\overview\\build-definition-history.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\_img\\overview\\build-definition-history.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "d2309d78541acc04b821c74280fafbd3403ecdf2": {
       "SourceFileCommit": "dc239305ad6236ac4da4de6837b4e91b3d4b4cd4",
       "SourceFilePath": "Library\\vs\\alm\\Build\\_img\\overview\\ci-build-trigger-with-multiple-branches.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\_img\\overview\\ci-build-trigger-with-multiple-branches.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "5e928ef5ab4de68296f5d901cbd4b02c7d69af64": {
       "SourceFileCommit": "dc239305ad6236ac4da4de6837b4e91b3d4b4cd4",
       "SourceFilePath": "Library\\vs\\alm\\Build\\_img\\overview\\live-console-view-during-build.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\_img\\overview\\live-console-view-during-build.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "b4952283ba14277ccbf3cd0c9b68fab2410a0789": {
       "SourceFileCommit": "dc239305ad6236ac4da4de6837b4e91b3d4b4cd4",
       "SourceFilePath": "Library\\vs\\alm\\Build\\_img\\overview\\publish-test-results.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\_img\\overview\\publish-test-results.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "ac50ebc10bd2773d4ecd53e666db7fd8cf80b5f0": {
       "SourceFileCommit": "dc239305ad6236ac4da4de6837b4e91b3d4b4cd4",
       "SourceFilePath": "Library\\vs\\alm\\Build\\_img\\overview\\timeline-view-during-build.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\_img\\overview\\timeline-view-during-build.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "002dec7411413e674fbde2fb7bd1937117494893": {
       "SourceFileCommit": "dc239305ad6236ac4da4de6837b4e91b3d4b4cd4",
       "SourceFilePath": "Library\\vs\\alm\\Build\\_img\\taskbanner.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\_img\\taskbanner.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "d825e540aa17b87a25a364cab60c52a0632c3976": {
       "SourceFileCommit": "dc239305ad6236ac4da4de6837b4e91b3d4b4cd4",
       "SourceFilePath": "Library\\vs\\alm\\Build\\_img\\template.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\_img\\template.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "20ff075af2deccd865743fbfdb0914810a80c098": {
       "SourceFileCommit": "dc239305ad6236ac4da4de6837b4e91b3d4b4cd4",
       "SourceFilePath": "Library\\vs\\alm\\Build\\_img\\xplat.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\_img\\xplat.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "a1bf5b443fedd2e6ac5e175491213907b87dda00": {
       "SourceFileCommit": "dc239305ad6236ac4da4de6837b4e91b3d4b4cd4",
       "SourceFilePath": "Library\\vs\\alm\\Build\\build.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\build.md",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "f4e5ffbe191b387487001ec65d677cb858e92043": {
       "SourceFileCommit": "dc239305ad6236ac4da4de6837b4e91b3d4b4cd4",
       "SourceFilePath": "Library\\vs\\alm\\Build\\feature-overview.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\feature-overview.md",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "05ebae5ad533d12e27cb5e1459f017b66f3bd7a6": {
       "SourceFileCommit": "dc239305ad6236ac4da4de6837b4e91b3d4b4cd4",
@@ -144,121 +144,121 @@
     "1d53933449ca937fa41704b366981b5e3f09adc1": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\_shared\\definition-draft.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\_shared\\definition-draft.md",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "1bc6d1c1e2bd288687b7858e7654cce9da94dfc4": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\_shared\\definition-replicate.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\_shared\\definition-replicate.md",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "ba47d8dd061cdc0a594ac04acf1985c2f42fd723": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\_shared\\qa-new-old-choose.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\_shared\\qa-new-old-choose.md",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "dfdaed0329217acc7b9817f7bafc50e257c58923": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\_shared\\qa-new-old-relate.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\_shared\\qa-new-old-relate.md",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "36ed153a3dbd908955236202927d6e5b3428aa59": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\_shared\\qa-no-agent-with-capabilities.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\_shared\\qa-no-agent-with-capabilities.md",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "e3b9d5f1cf7f5597c5299a66dea5ad6edb736702": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\_shared\\qa-use-in-production.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\_shared\\qa-use-in-production.md",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "c89ed9e2e981d8b3036254f4f87a31090c67798f": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\_shared\\qa-variable-secret.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\_shared\\qa-variable-secret.md",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "58be648d62eab4a27845c2345d3dc43de1b7edda": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\agents\\_shared\\qa-windows-agent-powershell-version.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\agents\\_shared\\qa-windows-agent-powershell-version.md",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "38396a196ffcd56a2c4e62f24729177874876bdc": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\agents\\admin.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\agents\\admin.md",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "589de7c9daa2087728a6d1618649cb9962bddd2d": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\agents\\_img\\admin\\build-system-architecture.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\agents\\_img\\admin\\build-system-architecture.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "f60fe7b3114ed2be0f084d00ec09e113188a2e81": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\agents\\_img\\_shared\\new-agent-pool-start.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\agents\\_img\\_shared\\new-agent-pool-start.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "9f69b0831b5f32692c54cfd1c6ec31dd3bacface": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\agents\\_img\\admin\\control-panel-agent-pools-administrators-pool-scope.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\agents\\_img\\admin\\control-panel-agent-pools-administrators-pool-scope.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "0facc8249f77a0aba05b93bfa154af172165bdca": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\agents\\_img\\admin\\control-panel-agent-pools-administrators-account-scope.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\agents\\_img\\admin\\control-panel-agent-pools-administrators-account-scope.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "9082a407edbba4fc6d3213e96fa2790f7b51799e": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\agents\\_img\\_shared\\new-build-queue-start.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\agents\\_img\\_shared\\new-build-queue-start.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "f217592503863542a6dc0671faad562a17776ceb": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\agents\\_img\\_shared\\create-build-queue-dialog-box.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\agents\\_img\\_shared\\create-build-queue-dialog-box.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "13efc34562dd10d351e96cd9c586de0160341738": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\agents\\_img\\windows\\CplBldPoolDefaultAgent.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\agents\\_img\\windows\\CplBldPoolDefaultAgent.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "4c91bf0bab83782a1ee636fff4b60e7038daaafc": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\agents\\_img\\collection-control-panel-build-queue-settings.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\agents\\_img\\collection-control-panel-build-queue-settings.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "f284568df1ac76a55e8ec43cfed591341dbb34cb": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
@@ -270,44 +270,44 @@
     "607dda1582755c58a90acf85e5de7cc34676cd82": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\agents\\_img\\windows\\tfs-on-premises-build-agent-from-wizard.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\agents\\_img\\windows\\tfs-on-premises-build-agent-from-wizard.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "31dfdf265983aa6ce85cdca854a18623b6abafea": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\agents\\_img\\_shared\\CplWebLaunchIcon.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\agents\\_img\\_shared\\CplWebLaunchIcon.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "e2c105313bc8ea11bd6cb2c568e042cc0de3be74": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\agents\\_img\\_shared\\new-agent-pool-dialog-box.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\agents\\_img\\_shared\\new-agent-pool-dialog-box.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "4af54f4a5136b11c03f13bd4ff0809fcc2872457": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\agents\\_img\\windows\\download-windows-agent-start.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\agents\\_img\\windows\\download-windows-agent-start.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "d118650125990d41920f0f4cbad70749e11b237a": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\agents\\_img\\windows\\WebAuthAcctChoose.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\agents\\_img\\windows\\WebAuthAcctChoose.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "8e84632327ecfcca9034f6ecc4ad392f6bf44d84": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\agents\\_img\\windows\\tfs-on-premises-xaml-build-system-configure-start.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\agents\\_img\\windows\\tfs-on-premises-xaml-build-system-configure-start.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "32677d023182e8f1f81c57dfc520e9b10aa6448d": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
@@ -319,23 +319,23 @@
     "46d7d1abd9d4952f1313710f3aa044bb80158932": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\azure\\deploy-aspnet5.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\azure\\deploy-aspnet5.md",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "be8400bc6093ea9fd7c3b762b8b58a483c7969a4": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\azure\\_img\\BldPrebuildPs1File.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\azure\\_img\\BldPrebuildPs1File.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "ffa7fb14823940497e0be246d0578d33a463a216": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\azure\\_img\\BldAzureSubscriptionDialog.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\azure\\_img\\BldAzureSubscriptionDialog.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "87d95181b4512f5149936a29b9a544c855271d3c": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
@@ -347,156 +347,156 @@
     "b0753ef5993905a60965c54da23d6a871c156295": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\azure\\_img\\BldAzureWebsiteNewBuild.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\azure\\_img\\BldAzureWebsiteNewBuild.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "72a83b17d0a37a49bf9ccfc6c4b47af194f76f5b": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\azure\\_img\\BldAzureWebsiteDeployStep.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\azure\\_img\\BldAzureWebsiteDeployStep.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "edef44437edaadc44126dcc471550977b8529cfc": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\azure\\_img\\BldAzureWebSitePowerShellStepAdd.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\azure\\_img\\BldAzureWebSitePowerShellStepAdd.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "babba41015434f423a21e528f7ce4c9eb62b157f": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\github\\index.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\github\\index.md",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "b2eede6932b65c06351d295ce06c40c868b34248": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\github\\_img\\add-build-definition.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\github\\_img\\add-build-definition.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "d210851101db5d7a002b3ffdb62d3fa31d0058c9": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\github\\_img\\github-repository.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\github\\_img\\github-repository.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "f9f4fb1112a7d9258377bc13bc8bfa08f63d649a": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\github\\_img\\continuous-integration.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\github\\_img\\continuous-integration.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "b0be048463d30591450eb42d385c3ae1f8d368aa": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\github\\_img\\build-queue.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\github\\_img\\build-queue.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "49e72a9b9b4dbe3b5212258275bbd46e36724bf3": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\github\\_img\\queued-build.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\github\\_img\\queued-build.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "5fe047392297d79976c23a3f756c3e5f904b60f2": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\github\\_img\\completed-build.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\github\\_img\\completed-build.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "cac4839d5b9c717193c5caf63cc36c822dcc371c": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\github\\_img\\github-commit.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\github\\_img\\github-commit.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "458adad10bca0a5132cfc3405ebbda82aed20cb0": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\java\\maven.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\java\\maven.md",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "fe323f6fb56a47ac4ae5b3db53252490aaf5c35a": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\_shared\\_img\\web-portal-build-tab.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\_shared\\_img\\web-portal-build-tab.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "16f19d50109ed0d4587e3da6313f8535941dff6d": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\java\\_img\\new-java-build-from-definition-templates.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\java\\_img\\new-java-build-from-definition-templates.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "75ff5f5190516d057f1f0dfc70970e58f2ae87ba": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\java\\_img\\add-build-step.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\java\\_img\\add-build-step.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "f1e75e80e4649bcfc5327a5e40f9bbae2379dc53": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\java\\_img\\add-build-step-maven.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\java\\_img\\add-build-step-maven.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "0f9607574cf30cf13fa043389d9c6b276b8897b4": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\java\\_img\\maven-build-step.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\java\\_img\\maven-build-step.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "0501f7b214a29c2f50ac6170a4a8cce2ba349780": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\_shared\\_img\\build-trigger-ci-master-batch.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\_shared\\_img\\build-trigger-ci-master-batch.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "c1e8570ca195d6e9c74438c036dd8260ec910b10": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\_shared\\_img\\build-definition-save-button.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\_shared\\_img\\build-definition-save-button.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "e9a3c9ed92d6ed105c62e5024e03aa4de035e449": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\_shared\\_img\\BldSave.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\_shared\\_img\\BldSave.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "044be33a358f20b2585b81bad262512b79cb147a": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\java\\_img\\queue-build-dialog-box-with-hosted.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\java\\_img\\queue-build-dialog-box-with-hosted.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "dedfcc65cea7c0be8276f34aa9f04c1b60e352a2": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\java\\_img\\eclipse-build-completed.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\java\\_img\\eclipse-build-completed.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "d93d00cfb69436268807b70f9b31f31fb5ff5011": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
@@ -515,44 +515,44 @@
     "38ced9f6bb3649296ebcf5a2c440c0cc953a7146": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\news\\index.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\news\\index.md",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "477f3236955dd9b4fdbb2c7492b15e2c1f5c28c2": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\scripts\\index.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\scripts\\index.md",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "30ecdd40a69e24e25b292e3e3d2e5b3b8e5eefa9": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\_shared\\_img\\BldStepAddBegin.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\_shared\\_img\\BldStepAddBegin.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "ed189b9a694d259f65ff4ea64eb946852038acfb": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\scripts\\_img\\BldScriptPSAdd.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\scripts\\_img\\BldScriptPSAdd.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "05f280685274a984d44ca94e114ec3430561e2e5": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\scripts\\variables.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\scripts\\variables.md",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "4bd0f367d78add41e442a7a5bc53a634281556a0": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\steps\\build\\publish-build-artifacts.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\steps\\build\\publish-build-artifacts.md",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "cd2d1df63434de88124498bca53d51b1d32817ed": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
@@ -564,51 +564,51 @@
     "e0d81fb910ff69ca87a382b17b17c096a2125ae7": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\vs\\_img\\new-visual-studio-build-from-definition-templates.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\vs\\_img\\new-visual-studio-build-from-definition-templates.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "a06f53e6baa7ebc58f404d575631e22d07a39bf5": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\_shared\\_img\\queue-build-dialog-box-with-hosted.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\_shared\\_img\\queue-build-dialog-box-with-hosted.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "62f6b8b56476cca921c4027ca1770ef0e1dbd656": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\vs\\_img\\visual-studio-build-completed.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\vs\\_img\\visual-studio-build-completed.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "b5b811bac7e10c959dcb1587348b9d5fcc679c49": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\vs\\_img\\BldOptionMultiConfig.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\vs\\_img\\BldOptionMultiConfig.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "da7ffd620d4b55fea3a3088538818b1df3cfc884": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\vs\\_img\\BldVSBuildVarsPlatformConfig.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\vs\\_img\\BldVSBuildVarsPlatformConfig.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "f3816f0c0cbc93f79de0764543f554deffae9fb7": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\vs\\_img\\BldVSBuildStepPlatformConfig.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\vs\\_img\\BldVSBuildStepPlatformConfig.png",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "b0f4fe217245ef2a15ea698311b8e7565174a5d0": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\vs\\index.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "d7e5688cc163dd7a5988999bfdbc43a93c6297fb",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\vs\\index.md",
+      "UpdatedDateTime": "2015-08-31T06:18:10.2332822Z"
     },
     "02542929a8f3fbecac7a9c5bffe4e9ccc7504203": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
