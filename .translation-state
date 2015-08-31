@@ -1,0 +1,145 @@
+{
+  "LastProcessedCommit": "dc239305ad6236ac4da4de6837b4e91b3d4b4cd4",
+  "Items": {
+    "22977059a64c421f0d899a28171f903706394115": {
+      "SourceFileCommit": "dc239305ad6236ac4da4de6837b4e91b3d4b4cd4",
+      "SourceFilePath": "Library\\vs\\alm\\Build\\_img\\BldVNext.png",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "e61f70f1d9a5b700231342c2c691b3ff2e78287f": {
+      "SourceFileCommit": "dc239305ad6236ac4da4de6837b4e91b3d4b4cd4",
+      "SourceFilePath": "Library\\vs\\alm\\Build\\_img\\buildList.png",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "336da6f684581b260155e41c84ac2b4bb6665999": {
+      "SourceFileCommit": "dc239305ad6236ac4da4de6837b4e91b3d4b4cd4",
+      "SourceFilePath": "Library\\vs\\alm\\Build\\_img\\draft.png",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "a0da0025887a16fb87d3bd202004d6cdb504839a": {
+      "SourceFileCommit": "dc239305ad6236ac4da4de6837b4e91b3d4b4cd4",
+      "SourceFilePath": "Library\\vs\\alm\\Build\\_img\\matrix.png",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "fecbcae8035f5845f8c6254a2814824fbf6235d3": {
+      "SourceFileCommit": "dc239305ad6236ac4da4de6837b4e91b3d4b4cd4",
+      "SourceFilePath": "Library\\vs\\alm\\Build\\_img\\overview\\add-build-steps-utility.png",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "78b733e5df9338a3f731f7c82f5e94c854098f78": {
+      "SourceFileCommit": "dc239305ad6236ac4da4de6837b4e91b3d4b4cd4",
+      "SourceFilePath": "Library\\vs\\alm\\Build\\_img\\overview\\add-build-steps.png",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "c8bca22271664ff6c7b98371adfeb2546aea985a": {
+      "SourceFileCommit": "dc239305ad6236ac4da4de6837b4e91b3d4b4cd4",
+      "SourceFilePath": "Library\\vs\\alm\\Build\\_img\\overview\\agent-capabilities.png",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "4ec7f55e0b8efb64b7ab6c5c7b1a7ae1a9861d56": {
+      "SourceFileCommit": "dc239305ad6236ac4da4de6837b4e91b3d4b4cd4",
+      "SourceFilePath": "Library\\vs\\alm\\Build\\_img\\overview\\azure-deployment-templates.png",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "5733d93748bf7229f6d1e339e71c436bd9d43934": {
+      "SourceFileCommit": "dc239305ad6236ac4da4de6837b4e91b3d4b4cd4",
+      "SourceFilePath": "Library\\vs\\alm\\Build\\_img\\overview\\build-definition-history-diff.png",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "a81d29036b1775868b8430aa1a6b334f9f56de8a": {
+      "SourceFileCommit": "dc239305ad6236ac4da4de6837b4e91b3d4b4cd4",
+      "SourceFilePath": "Library\\vs\\alm\\Build\\_img\\overview\\build-definition-history.png",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "d2309d78541acc04b821c74280fafbd3403ecdf2": {
+      "SourceFileCommit": "dc239305ad6236ac4da4de6837b4e91b3d4b4cd4",
+      "SourceFilePath": "Library\\vs\\alm\\Build\\_img\\overview\\ci-build-trigger-with-multiple-branches.png",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "5e928ef5ab4de68296f5d901cbd4b02c7d69af64": {
+      "SourceFileCommit": "dc239305ad6236ac4da4de6837b4e91b3d4b4cd4",
+      "SourceFilePath": "Library\\vs\\alm\\Build\\_img\\overview\\live-console-view-during-build.png",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "b4952283ba14277ccbf3cd0c9b68fab2410a0789": {
+      "SourceFileCommit": "dc239305ad6236ac4da4de6837b4e91b3d4b4cd4",
+      "SourceFilePath": "Library\\vs\\alm\\Build\\_img\\overview\\publish-test-results.png",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "ac50ebc10bd2773d4ecd53e666db7fd8cf80b5f0": {
+      "SourceFileCommit": "dc239305ad6236ac4da4de6837b4e91b3d4b4cd4",
+      "SourceFilePath": "Library\\vs\\alm\\Build\\_img\\overview\\timeline-view-during-build.png",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "002dec7411413e674fbde2fb7bd1937117494893": {
+      "SourceFileCommit": "dc239305ad6236ac4da4de6837b4e91b3d4b4cd4",
+      "SourceFilePath": "Library\\vs\\alm\\Build\\_img\\taskbanner.png",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "d825e540aa17b87a25a364cab60c52a0632c3976": {
+      "SourceFileCommit": "dc239305ad6236ac4da4de6837b4e91b3d4b4cd4",
+      "SourceFilePath": "Library\\vs\\alm\\Build\\_img\\template.png",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "20ff075af2deccd865743fbfdb0914810a80c098": {
+      "SourceFileCommit": "dc239305ad6236ac4da4de6837b4e91b3d4b4cd4",
+      "SourceFilePath": "Library\\vs\\alm\\Build\\_img\\xplat.png",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "a1bf5b443fedd2e6ac5e175491213907b87dda00": {
+      "SourceFileCommit": "dc239305ad6236ac4da4de6837b4e91b3d4b4cd4",
+      "SourceFilePath": "Library\\vs\\alm\\Build\\build.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "f4e5ffbe191b387487001ec65d677cb858e92043": {
+      "SourceFileCommit": "dc239305ad6236ac4da4de6837b4e91b3d4b4cd4",
+      "SourceFilePath": "Library\\vs\\alm\\Build\\feature-overview.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "05ebae5ad533d12e27cb5e1459f017b66f3bd7a6": {
+      "SourceFileCommit": "dc239305ad6236ac4da4de6837b4e91b3d4b4cd4",
+      "SourceFilePath": "Library\\vs\\alm\\Build\\overview.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    }
+  }
+}
