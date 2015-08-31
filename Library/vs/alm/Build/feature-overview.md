@@ -4,7 +4,7 @@ toc: show
 Parent: ./index.md
 ms.ContentId: 2F76AECB-D1A4-4E29-9956-7C7A75D89B74
 
-#Test Overview of Team Foundation Build 2015
+#Overview of Team Foundation Build 2015 (Beta)
 
 No matter what tools you use.
 In whatever language you prefer.
