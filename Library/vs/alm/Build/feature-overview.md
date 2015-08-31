@@ -4,7 +4,7 @@ toc: show
 Parent: ./index.md
 ms.ContentId: 2F76AECB-D1A4-4E29-9956-7C7A75D89B74
 
-#Overview of Team Foundation Build 2015
+#Test Overview of Team Foundation Build 2015
 
 No matter what tools you use.
 In whatever language you prefer.
@@ -18,6 +18,8 @@ We even build Xamarin apps for both iOS and Android and run tests on Xamarin's T
 We intend to enable publishing the Test Cloud test results to the server so you can view them in your build summary.
 
 ![Xplat](_img/overview/add-build-steps.png)
+
+![BldVNext](_img/5star2.png)
 
 ##Easy customization
 
