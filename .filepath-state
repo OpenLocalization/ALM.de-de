@@ -1,55 +1,4 @@
 {
-  "22977059a64c421f0d899a28171f903706394115": [
-    "Library\\vs\\alm\\Build\\_img\\BldVNext.png"
-  ],
-  "e61f70f1d9a5b700231342c2c691b3ff2e78287f": [
-    "Library\\vs\\alm\\Build\\_img\\buildList.png"
-  ],
-  "336da6f684581b260155e41c84ac2b4bb6665999": [
-    "Library\\vs\\alm\\Build\\_img\\draft.png"
-  ],
-  "a0da0025887a16fb87d3bd202004d6cdb504839a": [
-    "Library\\vs\\alm\\Build\\_img\\matrix.png"
-  ],
-  "fecbcae8035f5845f8c6254a2814824fbf6235d3": [
-    "Library\\vs\\alm\\Build\\_img\\overview\\add-build-steps-utility.png"
-  ],
-  "78b733e5df9338a3f731f7c82f5e94c854098f78": [
-    "Library\\vs\\alm\\Build\\_img\\overview\\add-build-steps.png"
-  ],
-  "c8bca22271664ff6c7b98371adfeb2546aea985a": [
-    "Library\\vs\\alm\\Build\\_img\\overview\\agent-capabilities.png"
-  ],
-  "4ec7f55e0b8efb64b7ab6c5c7b1a7ae1a9861d56": [
-    "Library\\vs\\alm\\Build\\_img\\overview\\azure-deployment-templates.png"
-  ],
-  "5733d93748bf7229f6d1e339e71c436bd9d43934": [
-    "Library\\vs\\alm\\Build\\_img\\overview\\build-definition-history-diff.png"
-  ],
-  "a81d29036b1775868b8430aa1a6b334f9f56de8a": [
-    "Library\\vs\\alm\\Build\\_img\\overview\\build-definition-history.png"
-  ],
-  "d2309d78541acc04b821c74280fafbd3403ecdf2": [
-    "Library\\vs\\alm\\Build\\_img\\overview\\ci-build-trigger-with-multiple-branches.png"
-  ],
-  "5e928ef5ab4de68296f5d901cbd4b02c7d69af64": [
-    "Library\\vs\\alm\\Build\\_img\\overview\\live-console-view-during-build.png"
-  ],
-  "b4952283ba14277ccbf3cd0c9b68fab2410a0789": [
-    "Library\\vs\\alm\\Build\\_img\\overview\\publish-test-results.png"
-  ],
-  "ac50ebc10bd2773d4ecd53e666db7fd8cf80b5f0": [
-    "Library\\vs\\alm\\Build\\_img\\overview\\timeline-view-during-build.png"
-  ],
-  "002dec7411413e674fbde2fb7bd1937117494893": [
-    "Library\\vs\\alm\\Build\\_img\\taskbanner.png"
-  ],
-  "d825e540aa17b87a25a364cab60c52a0632c3976": [
-    "Library\\vs\\alm\\Build\\_img\\template.png"
-  ],
-  "20ff075af2deccd865743fbfdb0914810a80c098": [
-    "Library\\vs\\alm\\Build\\_img\\xplat.png"
-  ],
   "1d53933449ca937fa41704b366981b5e3f09adc1": [
     "Library\\vs\\alm\\Build\\_shared\\definition-draft.md"
   ],
@@ -152,8 +101,50 @@
   "cd2d1df63434de88124498bca53d51b1d32817ed": [
     "Library\\vs\\alm\\Build\\define-build.md"
   ],
-  "c193f33ca6d1ad55b5e581552357fae31110e11e": [
+  "5063789d2b58f6ed3d5c9a79b68e404eb2ac0c76": [
     "Library\\vs\\alm\\Build\\feature-overview.md"
+  ],
+  "78b733e5df9338a3f731f7c82f5e94c854098f78": [
+    "Library\\vs\\alm\\Build\\_img\\overview\\add-build-steps.png"
+  ],
+  "a4d7c8d4b84a34bf9a9a68d907ed1dca88786aaf": [
+    "Library\\vs\\alm\\Build\\_img\\5star2.png"
+  ],
+  "fecbcae8035f5845f8c6254a2814824fbf6235d3": [
+    "Library\\vs\\alm\\Build\\_img\\overview\\add-build-steps-utility.png"
+  ],
+  "b4952283ba14277ccbf3cd0c9b68fab2410a0789": [
+    "Library\\vs\\alm\\Build\\_img\\overview\\publish-test-results.png"
+  ],
+  "5e928ef5ab4de68296f5d901cbd4b02c7d69af64": [
+    "Library\\vs\\alm\\Build\\_img\\overview\\live-console-view-during-build.png"
+  ],
+  "ac50ebc10bd2773d4ecd53e666db7fd8cf80b5f0": [
+    "Library\\vs\\alm\\Build\\_img\\overview\\timeline-view-during-build.png"
+  ],
+  "a81d29036b1775868b8430aa1a6b334f9f56de8a": [
+    "Library\\vs\\alm\\Build\\_img\\overview\\build-definition-history.png"
+  ],
+  "5733d93748bf7229f6d1e339e71c436bd9d43934": [
+    "Library\\vs\\alm\\Build\\_img\\overview\\build-definition-history-diff.png"
+  ],
+  "c8bca22271664ff6c7b98371adfeb2546aea985a": [
+    "Library\\vs\\alm\\Build\\_img\\overview\\agent-capabilities.png"
+  ],
+  "4ec7f55e0b8efb64b7ab6c5c7b1a7ae1a9861d56": [
+    "Library\\vs\\alm\\Build\\_img\\overview\\azure-deployment-templates.png"
+  ],
+  "d2309d78541acc04b821c74280fafbd3403ecdf2": [
+    "Library\\vs\\alm\\Build\\_img\\overview\\ci-build-trigger-with-multiple-branches.png"
+  ],
+  "a0da0025887a16fb87d3bd202004d6cdb504839a": [
+    "Library\\vs\\alm\\Build\\_img\\matrix.png"
+  ],
+  "d825e540aa17b87a25a364cab60c52a0632c3976": [
+    "Library\\vs\\alm\\Build\\_img\\template.png"
+  ],
+  "336da6f684581b260155e41c84ac2b4bb6665999": [
+    "Library\\vs\\alm\\Build\\_img\\draft.png"
   ],
   "babba41015434f423a21e528f7ce4c9eb62b157f": [
     "Library\\vs\\alm\\Build\\github\\index.md"
