@@ -256,9 +256,9 @@
     "f284568df1ac76a55e8ec43cfed591341dbb34cb": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\agents\\windows.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "ed0ca0df5bf47d91b911b468520ed95d522418ac",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\agents\\windows.md",
+      "UpdatedDateTime": "2015-08-31T06:42:00.4257705Z"
     },
     "607dda1582755c58a90acf85e5de7cc34676cd82": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
@@ -305,9 +305,9 @@
     "32677d023182e8f1f81c57dfc520e9b10aa6448d": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\agents\\xplat.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "ed0ca0df5bf47d91b911b468520ed95d522418ac",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\agents\\xplat.md",
+      "UpdatedDateTime": "2015-08-31T06:42:00.4257705Z"
     },
     "46d7d1abd9d4952f1313710f3aa044bb80158932": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
@@ -333,9 +333,9 @@
     "87d95181b4512f5149936a29b9a544c855271d3c": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\azure\\index.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "ed0ca0df5bf47d91b911b468520ed95d522418ac",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\azure\\index.md",
+      "UpdatedDateTime": "2015-08-31T06:42:00.4257705Z"
     },
     "b0753ef5993905a60965c54da23d6a871c156295": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
@@ -494,16 +494,16 @@
     "d93d00cfb69436268807b70f9b31f31fb5ff5011": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\news\\2015-01.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "ed0ca0df5bf47d91b911b468520ed95d522418ac",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\news\\2015-01.md",
+      "UpdatedDateTime": "2015-08-31T06:42:00.4257705Z"
     },
     "2f5ff3f0c5bd5c2cf3dd5c8f8fc2616d94dc0af5": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\news\\2015-02.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "ed0ca0df5bf47d91b911b468520ed95d522418ac",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\news\\2015-02.md",
+      "UpdatedDateTime": "2015-08-31T06:42:00.4257705Z"
     },
     "38ced9f6bb3649296ebcf5a2c440c0cc953a7146": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
@@ -550,9 +550,9 @@
     "cd2d1df63434de88124498bca53d51b1d32817ed": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\vs\\define-build.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "ed0ca0df5bf47d91b911b468520ed95d522418ac",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\vs\\define-build.md",
+      "UpdatedDateTime": "2015-08-31T06:42:00.4257705Z"
     },
     "e0d81fb910ff69ca87a382b17b17c096a2125ae7": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
@@ -606,9 +606,9 @@
     "02542929a8f3fbecac7a9c5bffe4e9ccc7504203": {
       "SourceFileCommit": "c0ef1ea4dbe6b840178b6dabc7e4022066264795",
       "SourceFilePath": "Library\\vs\\alm\\Build\\xcode\\index.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "ed0ca0df5bf47d91b911b468520ed95d522418ac",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\xcode\\index.md",
+      "UpdatedDateTime": "2015-08-31T06:42:00.4257705Z"
     },
     "52bc0edefafd4fca6892c9b11b0f56963e6ee521": {
       "SourceFileCommit": "12aaec98504c887e2c84601291f76c3f8935bc01",
