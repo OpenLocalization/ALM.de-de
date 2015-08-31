@@ -149,7 +149,7 @@
   "a1bf5b443fedd2e6ac5e175491213907b87dda00": [
     "Library\\vs\\alm\\Build\\build.md"
   ],
-  "f4e5ffbe191b387487001ec65d677cb858e92043": [
+  "c193f33ca6d1ad55b5e581552357fae31110e11e": [
     "Library\\vs\\alm\\Build\\feature-overview.md"
   ],
   "babba41015434f423a21e528f7ce4c9eb62b157f": [
@@ -175,6 +175,10 @@
   ],
   "cac4839d5b9c717193c5caf63cc36c822dcc371c": [
     "Library\\vs\\alm\\Build\\github\\_img\\github-commit.png"
+  ],
+  "b0f4fe217245ef2a15ea698311b8e7565174a5d0": [
+    "Library\\vs\\alm\\Build\\index.md",
+    "Library\\vs\\alm\\Build\\vs\\index.md"
   ],
   "458adad10bca0a5132cfc3405ebbda82aed20cb0": [
     "Library\\vs\\alm\\Build\\java\\maven.md"
@@ -219,7 +223,7 @@
     "Library\\vs\\alm\\Build\\news\\index.md"
   ],
   "cffbd8da244a467a9ca4dae42a01084c54a04a01": [
-    "Library\\vs\\alm\\Build\\overview.md"
+    "Library\\vs\\alm\\Build\\overview1.md"
   ],
   "477f3236955dd9b4fdbb2c7492b15e2c1f5c28c2": [
     "Library\\vs\\alm\\Build\\scripts\\index.md"
@@ -256,11 +260,5 @@
   ],
   "f3816f0c0cbc93f79de0764543f554deffae9fb7": [
     "Library\\vs\\alm\\Build\\vs\\_img\\BldVSBuildStepPlatformConfig.png"
-  ],
-  "b0f4fe217245ef2a15ea698311b8e7565174a5d0": [
-    "Library\\vs\\alm\\Build\\vs\\index.md"
-  ],
-  "02542929a8f3fbecac7a9c5bffe4e9ccc7504203": [
-    "Library\\vs\\alm\\Build\\xcode\\index.md"
   ]
 }
