@@ -149,6 +149,9 @@
   "a1bf5b443fedd2e6ac5e175491213907b87dda00": [
     "Library\\vs\\alm\\Build\\build.md"
   ],
+  "cd2d1df63434de88124498bca53d51b1d32817ed": [
+    "Library\\vs\\alm\\Build\\define-build.md"
+  ],
   "c193f33ca6d1ad55b5e581552357fae31110e11e": [
     "Library\\vs\\alm\\Build\\feature-overview.md"
   ],
@@ -239,26 +242,5 @@
   ],
   "4bd0f367d78add41e442a7a5bc53a634281556a0": [
     "Library\\vs\\alm\\Build\\steps\\build\\publish-build-artifacts.md"
-  ],
-  "cd2d1df63434de88124498bca53d51b1d32817ed": [
-    "Library\\vs\\alm\\Build\\vs\\define-build.md"
-  ],
-  "e0d81fb910ff69ca87a382b17b17c096a2125ae7": [
-    "Library\\vs\\alm\\Build\\vs\\_img\\new-visual-studio-build-from-definition-templates.png"
-  ],
-  "a06f53e6baa7ebc58f404d575631e22d07a39bf5": [
-    "Library\\vs\\alm\\Build\\_shared\\_img\\queue-build-dialog-box-with-hosted.png"
-  ],
-  "62f6b8b56476cca921c4027ca1770ef0e1dbd656": [
-    "Library\\vs\\alm\\Build\\vs\\_img\\visual-studio-build-completed.png"
-  ],
-  "b5b811bac7e10c959dcb1587348b9d5fcc679c49": [
-    "Library\\vs\\alm\\Build\\vs\\_img\\BldOptionMultiConfig.png"
-  ],
-  "da7ffd620d4b55fea3a3088538818b1df3cfc884": [
-    "Library\\vs\\alm\\Build\\vs\\_img\\BldVSBuildVarsPlatformConfig.png"
-  ],
-  "f3816f0c0cbc93f79de0764543f554deffae9fb7": [
-    "Library\\vs\\alm\\Build\\vs\\_img\\BldVSBuildStepPlatformConfig.png"
   ]
 }
