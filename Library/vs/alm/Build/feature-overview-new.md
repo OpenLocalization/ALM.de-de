@@ -17,6 +17,10 @@ Build for Windows, iOS, Android, Java (Ant, Maven, or Gradle), or Linux using th
 We even build Xamarin apps for both iOS and Android and run tests on Xamarin's Test Cloud as part of the build.
 We intend to enable publishing the Test Cloud test results to the server so you can view them in your build summary.
 
+![New Image](_img/new.PNG)
+
+![New Image](_img/new2.PNG)
+
 ![New Image](_img/cdn-1-browser-access.PNG)
 
 ![Xplat](_img/overview/add-build-steps.png)
