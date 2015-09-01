@@ -121,7 +121,7 @@ To get your subscription file:
 8.  In the `MSBuild Arguments` input add the following properties.
     `/t:Build,FileSystemPublish /p:PublishConfiguration=$(BuildConfiguration) /p:PublishOutputPathNoTrailingSlash=$(Build.SourcesDirectory)\{yourProjectName}\artifacts\bin\$(BuildConfiguration)\Publish`
     
-    **Note:**`$(Build.SourcesDirectory)` is one of a number of variables you can use in your build definition, you can learn more [here](/Library/vs/alm/Build/scripts/variables.md)
+    **Note:**`$(Build.SourcesDirectory)` is one of a number of variables you can use in your build definition, you can learn more [here](../scripts/variables.md)
 9.  Add an Azure PowerShell step and drage and drop it above the Publish Build Artifacts step.
 10.  In the `Azure Subscription` input select the subscription you regsitered above.
 11.  In the `Script Path` input browse to the `PublishAspNet5Website.ps1` script in your repository.

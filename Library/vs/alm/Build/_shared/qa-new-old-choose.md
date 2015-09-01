@@ -9,7 +9,7 @@ The new builds are web- and script-based, and highly customizable.
 They leave behind many of the problems and limitations of the XAML builds.
 For example, this new system embraces the diverse set of domain-specific languages (DSLs) that developers used to build the code on their dev machines.
 We expect this will reduce the chances of running into the "builds fine on my machine but not on the CI server" problem.
-For more details, see [Overview of Team Foundation Build 2015](/library/vs/alm/build/feature-overview.md).
+For more details, see [Overview of Team Foundation Build 2015](../feature-overview.md).
 
 In a few cases you might need to continue using XAML builds:
 

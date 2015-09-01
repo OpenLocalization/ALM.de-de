@@ -1,5 +1,5 @@
 {
-	"docset_files": ["Library/vs/alm/Docset.json"],
+	"docset_files": ["Library/vs/alm/Build/Docset.json"],
 	"build_config": {
 		"incremental": "true",
 		"force_build": "true",

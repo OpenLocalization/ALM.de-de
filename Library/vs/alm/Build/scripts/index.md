@@ -10,7 +10,7 @@ When you are ready to move beyond the basics of compiling and testing your code,
 
 ##Run a PowerShell script
 
-You can run a PowerShell Script on a [Windows build agent](/Library/vs/alm/Build/agents/windows.md).
+You can run a PowerShell Script on a [Windows build agent](../agents/windows.md).
 
 1.  Push your script into your repo.
 2.  Add a PowerShell build step.

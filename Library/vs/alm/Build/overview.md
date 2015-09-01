@@ -7,9 +7,6 @@ Toc: show
 
 #Testabc Team Foundation Build
 
-![Customizable.
-Cross Platform.](_img/taskbanner.png)<br/>
-
 <div style="background-color:#e4c1ee; padding:7px; margin:10px">
 We've built a brand new scriptable build system that's web-based and cross-platform. We believe all new and most existing customers should use it instead of the XAML build system. <b caps_internal_Id="f5c11cd2-a988-49a7-8793-056d7c15f31a">[Tell me more.](feature-overview.md)</b></div>
 
@@ -23,7 +20,6 @@ You need at least one agent to build your code.
 
 ##Build apps for Windows or Azure
 
-*   [Build your Windows solution](vs/define-build.md)
 *   [Build and deploy to Azure](azure/index.md)
 *   [Build and Deploy your ASP.NET 5 Application to an Azure Web App](azure/deploy-aspnet5.md)
 

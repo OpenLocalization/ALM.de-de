@@ -84,7 +84,7 @@ Definitions route to the right agent with capabilities needed by the definition.
 
 Lock a variable to hide it from the web and store it in a strong box.
 
-![Secret](/Library/vs/alm/Build/_shared/_img/BldVarSecret.png)
+![Secret](_shared/_img/BldVarSecret.png)
 
 ##Azure continuous deployment improved
 
@@ -120,7 +120,7 @@ Save as custom templates.
 
 To test some changes that are not yet ready for production, save a draft.
 
-![Save as a draft](/Library/vs/alm/Build/_shared/_img/BldDefSaveDraft1.png)
+![Save as a draft](_shared/_img/BldDefSaveDraft1.png)
 
 When you're ready you can publish and keep the changes or delete them.
 

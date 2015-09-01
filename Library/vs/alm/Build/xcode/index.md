@@ -7,7 +7,7 @@ ms.ContentId: 268C7C1D-5133-4237-9690-F54E54C91C2E
 
 #Build an Xcode project for iOS
 
-Before you begin to build an Xcode project, you need an [Xplat agent](/library/vs/alm/build/agents/xplat.md).
+Before you begin to build an Xcode project, you need an [Xplat agent](../agents/xplat.md).
 
 ##Build your Xcode project
 

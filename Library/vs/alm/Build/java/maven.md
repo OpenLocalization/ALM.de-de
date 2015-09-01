@@ -7,7 +7,7 @@ ms.ContentId: C339FAF9-A960-4A3A-9A8A-ADCD39C2703D
 
 #Build your Java project with Maven
 
-After you have deployed a [Windows build agent](/Library/vs/alm/Build/agents/windows.md) or an [Xplat build agent](/library/vs/alm/build/agents/xplat.md), you are ready to define a CI build that compiles and tests your Java project with Maven whenever your team checks in code.
+After you have deployed a [Windows build agent](../agents/windows.md) or an [Xplat build agent](../agents/xplat.md), you are ready to define a CI build that compiles and tests your Java project with Maven whenever your team checks in code.
 
 ##Create the definition
 
@@ -42,7 +42,7 @@ Since this is a CI build, a build is started every time you push a commit to one
 
 ##Q&A
 
-[!INCLUDE [temp](/library/vs/alm/build/_shared/qa-variable-secret.md)]
+[!INCLUDE [temp](../_shared/qa-variable-secret.md)]
 
 
 

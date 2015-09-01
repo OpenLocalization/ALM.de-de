@@ -126,7 +126,7 @@ See https://github.com/isaacs/minimatch and https://realguess.net/tags/minimatch
 
 ###Q: What variables can I use?
 
-A: [Predefined variables](/library/vs/alm/build/scripts/variables.md)
+A: [Predefined variables](../../scripts/variables.md)
 
 
 

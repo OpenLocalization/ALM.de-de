@@ -7,7 +7,7 @@ ms.ContentId: 03C7B380-4767-42E4-B99E-37911F70CAB5
 ##Before you start
 
 1.  If you don't have a Visual Studio Online account, [create one](https://visualstudio.com).
-2.  If you don't have a build agent, set up a [Windows agent](/Library/vs/alm/Build/agents/windows.md) or an [Xplat agent](/Library/vs/alm/Build/agents/windows.md).
+2.  If you don't have a build agent, set up a [Windows agent](../agents/windows.md) or an [Xplat agent](../agents/windows.md).
 3.  Make sure you have permission GitHub to read the repository and in your team project
     on Visual Studio Online to create a build definition.
     (If you just created an account, you do have this permission.)

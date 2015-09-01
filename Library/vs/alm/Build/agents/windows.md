@@ -209,7 +209,7 @@ If you are an existing customer with custom build processes you are not yet read
 
 ####What's the name of the service?
 
-If you run the agent as a service, it is named: "VSO Agent (<name of your agent>)".
+If you run the agent as a service, it is named: "VSO Agent (&lt;name of your agent&gt;)".
 
 
 
