@@ -655,23 +655,23 @@
     "2c7f4ddac686570c9c31198cb49907119e60a8e0": {
       "SourceFileCommit": "a83ac7e40100252c10e749399a9cd180331cbff5",
       "SourceFilePath": "Library\\vs\\alm\\Build\\feature-overview.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "9d5f4e2ba3d682b6a9eeb8312e2b6d87c6c7e190",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\feature-overview.md",
+      "UpdatedDateTime": "2015-09-01T09:30:54.5519715Z"
     },
     "f499728b1466a885e530a8595fb36a3857a81f23": {
       "SourceFileCommit": "a83ac7e40100252c10e749399a9cd180331cbff5",
       "SourceFilePath": "Library\\vs\\alm\\Build\\_img\\cdn-1-browser-access.PNG",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "9d5f4e2ba3d682b6a9eeb8312e2b6d87c6c7e190",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\_img\\cdn-1-browser-access.PNG",
+      "UpdatedDateTime": "2015-09-01T09:30:54.5519715Z"
     },
     "3d3a7ffc0e547d285b5f58358756a2abdc5bd368": {
       "SourceFileCommit": "97cb3a0e2cdf5a8c7ad961dec82920d1ec09b0dd",
       "SourceFilePath": "Library\\vs\\alm\\Build\\overview.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "9d5f4e2ba3d682b6a9eeb8312e2b6d87c6c7e190",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\overview.md",
+      "UpdatedDateTime": "2015-09-01T09:30:54.5519715Z"
     }
   }
 }
