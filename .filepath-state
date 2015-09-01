@@ -104,8 +104,12 @@
   "cd2d1df63434de88124498bca53d51b1d32817ed": [
     "Library\\vs\\alm\\Build\\define-build.md"
   ],
-  "2c7f4ddac686570c9c31198cb49907119e60a8e0": [
+  "40573b5ffff5d89ca198e105bc39700ab0edd08d": [
     "Library\\vs\\alm\\Build\\feature-overview-new.md"
+  ],
+  "ba3baa9544ee42768cbd7770bac18546cfbc0929": [
+    "Library\\vs\\alm\\Build\\_img\\new.PNG",
+    "Library\\vs\\alm\\Build\\_img\\new2.PNG"
   ],
   "f499728b1466a885e530a8595fb36a3857a81f23": [
     "Library\\vs\\alm\\Build\\_img\\cdn-1-browser-access.PNG"
