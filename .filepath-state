@@ -5,6 +5,9 @@
   "1bc6d1c1e2bd288687b7858e7654cce9da94dfc4": [
     "Library\\vs\\alm\\Build\\_shared\\definition-replicate.md"
   ],
+  "4364d7cea997ee8047f59d5b3c694063b548ffdf": [
+    "Library\\vs\\alm\\Build\\_shared\\overview.md"
+  ],
   "ba47d8dd061cdc0a594ac04acf1985c2f42fd723": [
     "Library\\vs\\alm\\Build\\_shared\\qa-new-old-choose.md"
   ],
@@ -102,7 +105,7 @@
     "Library\\vs\\alm\\Build\\define-build.md"
   ],
   "2c7f4ddac686570c9c31198cb49907119e60a8e0": [
-    "Library\\vs\\alm\\Build\\feature-overview.md"
+    "Library\\vs\\alm\\Build\\feature-overview-new.md"
   ],
   "f499728b1466a885e530a8595fb36a3857a81f23": [
     "Library\\vs\\alm\\Build\\_img\\cdn-1-browser-access.PNG"
@@ -214,9 +217,6 @@
   ],
   "38ced9f6bb3649296ebcf5a2c440c0cc953a7146": [
     "Library\\vs\\alm\\Build\\news\\index.md"
-  ],
-  "cffbd8da244a467a9ca4dae42a01084c54a04a01": [
-    "Library\\vs\\alm\\Build\\overview - Copy.md"
   ],
   "3d3a7ffc0e547d285b5f58358756a2abdc5bd368": [
     "Library\\vs\\alm\\Build\\overview.md"
