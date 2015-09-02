@@ -223,7 +223,7 @@
     "Library\\vs\\alm\\Build\\news\\index.md"
   ],
   "22b398d90749feef73997ed3e5a2d999ad7f2978": [
-    "Library\\vs\\alm\\Build\\overview.md"
+    "Library\\vs\\alm\\Build\\overview-new.md"
   ],
   "477f3236955dd9b4fdbb2c7492b15e2c1f5c28c2": [
     "Library\\vs\\alm\\Build\\scripts\\index.md"
@@ -243,7 +243,10 @@
   "b0f4fe217245ef2a15ea698311b8e7565174a5d0": [
     "Library\\vs\\alm\\Build\\vs\\index.md"
   ],
-  "02542929a8f3fbecac7a9c5bffe4e9ccc7504203": [
-    "Library\\vs\\alm\\Build\\xcode\\index.md"
+  "36f6a1dbec80f0d9e088e1fb376912fd889c3a9c": [
+    "Library\\vs\\alm\\Build\\xcode\\define-build.md"
+  ],
+  "a06f53e6baa7ebc58f404d575631e22d07a39bf5": [
+    "Library\\vs\\alm\\Build\\_shared\\_img\\queue-build-dialog-box-with-hosted.png"
   ]
 }
