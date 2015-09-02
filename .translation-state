@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "3936a5eb035dc1fca2c270dd767dbd919ded2dd8",
+  "LastProcessedCommit": "95a3304580b84b0682d019d8d252daa126688c6d",
   "Items": {
     "1d53933449ca937fa41704b366981b5e3f09adc1": {
       "SourceFileCommit": "97cb3a0e2cdf5a8c7ad961dec82920d1ec09b0dd",
@@ -602,6 +602,20 @@
       "TargetFileCommit": "e44a798dd8bc79f2330e99b260513060fac933a9",
       "TargetFilePath": "Library\\vs\\alm\\Build\\_shared\\_img\\queue-build-dialog-box-with-hosted.png",
       "UpdatedDateTime": "2015-09-02T00:20:19.3363508Z"
+    },
+    "f2542296e372038d994cfc955d8511a2651d5f67": {
+      "SourceFileCommit": "95a3304580b84b0682d019d8d252daa126688c6d",
+      "SourceFilePath": "Library\\vs\\alm\\Build\\feature-overview-new.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "a4750eb2652873c6026843a43272758f45b098d9": {
+      "SourceFileCommit": "95a3304580b84b0682d019d8d252daa126688c6d",
+      "SourceFilePath": "Library\\vs\\alm\\Build\\_img\\image.PNG",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
     }
   }
 }
